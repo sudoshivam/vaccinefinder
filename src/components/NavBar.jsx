@@ -10,7 +10,7 @@ const NavBar = ({ button, setButton }) => {
         <div>
           <h1 id="logo">
             {" "}
-            <span className="syringe-icon"></span> VacFinder
+            <span className="syringe-icon"></span> MyVaccine
           </h1>
           <span className="tagline">Your needle awaits</span>
         </div>
